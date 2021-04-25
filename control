@@ -1,0 +1,12 @@
+Package: love.litten.juin
+Name: Juin 🏖
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.rpetrich.rocketbootstrap
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Spotify inspired lockscreen player
+Maintainer: Litten
+Author: Litten
+Section: Tweaks
+Depiction: https://repo.litten.love/depictions/jun/index.html
+SileoDepiction: https://repo.litten.love/depictions/jun/jun.json
+Icon: https://repo.litten.love/depictions/jun/assets/icon.png
